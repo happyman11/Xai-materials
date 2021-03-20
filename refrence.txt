@@ -33,3 +33,11 @@ https://www.analyticsvidhya.com/blog/2020/11/demystifying-model-interpretation-u
 https://github.com/TeamHG-Memex/eli5
 https://eli5.readthedocs.io/en/latest/blackbox/index.html
 
+
+AI360- IBM
+
+https://github.com/Trusted-AI/AIX360
+
+example: https://github.com/Trusted-AI/AIX360/tree/master/examples
+
+docs: https://aix360.mybluemix.net/
