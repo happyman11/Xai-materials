@@ -1,0 +1,35 @@
+whatif tool:
+
+https://www.tensorflow.org/tensorboard/what_if_tool
+
+https://towardsdatascience.com/using-what-if-tool-to-investigate-machine-learning-models-913c7d4118f
+
+https://pair-code.github.io/what-if-tool/index.html#demos
+
+
+
+Shapsh:
+
+
+https://github.com/happyman11/shapash
+
+https://www.youtube.com/watch?v=TaNfYKaid80
+
+https://shapash.readthedocs.io/en/latest/
+
+https://pub.towardsai.net/shapash-making-ml-models-understandable-by-everyone-8f96ad469eb3
+
+
+
+Explainer dashboard
+
+
+https://explainerdashboard.readthedocs.io/en/latest/
+
+
+ELI5:
+
+https://www.analyticsvidhya.com/blog/2020/11/demystifying-model-interpretation-using-eli5/
+https://github.com/TeamHG-Memex/eli5
+https://eli5.readthedocs.io/en/latest/blackbox/index.html
+
