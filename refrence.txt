@@ -1,3 +1,15 @@
+Full:
+
+https://christophm.github.io/
+
+https://djsarkar.medium.com/
+
+https://christophm.github.io/interpretable-ml-book/
+
+https://codete.com/blog/explainable-ai
+
+https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476
+
 whatif tool:
 
 https://www.tensorflow.org/tensorboard/what_if_tool
@@ -40,4 +52,11 @@ https://github.com/Trusted-AI/AIX360
 
 example: https://github.com/Trusted-AI/AIX360/tree/master/examples
 
-docs: https://aix360.mybluemix.net/
+Live example: https://aix360.mybluemix.net/
+
+Docs: https://aix360.readthedocs.io/en/latest/
+
+Skater
+
+https://github.com/oracle/Skater
+
