@@ -81,6 +81,27 @@ Skater
 https://github.com/oracle/Skater
 
 
+
+GitHub - spirosdim/CNN_interpretability: This project is about detecting pneumonia or no pneumonia from x-ray images and trying to explain the predictions of the Network.
+
+
+https://towardsdatascience.com/knowing-what-and-why-explaining-image-classifier-predictions-680a15043bad
+
+[PDF] Evaluating the performance of the LIME and Grad-CAM explanation methods on a LEGO multi-label image classification task | Semantic Scholar
+
+
+Explainability of Deep Learning Models with Grad-CAM (statworx.com)
+
+Understand Network Predictions Using LIME - MATLAB & Simulink (mathworks.com)
+
+
+Explainable Artificial Intelligence (darpa.mil)
+
+ILearnDeepLearning.py/02_data_science_toolkit/03_explaining_image_classifier_predictions at master · SkalskiP/ILearnDeepLearning.py · GitHub
+What Is XAI (eXplainable AI)? - A Contextual Introduction (digite.com)
+Grad-CAM: Visual Explanations from Deep Networks – Glass Box (glassboxmedicine.com)
+
+
 Note:
 
 See the official Library and repo for codes as weel as official sites for full descriptipn andf images
