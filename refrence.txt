@@ -80,3 +80,7 @@ Skater
 
 https://github.com/oracle/Skater
 
+
+Note:
+
+See the official Library and repo for codes as weel as official sites for full descriptipn andf images
