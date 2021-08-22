@@ -31,6 +31,26 @@ https://shapash.readthedocs.io/en/latest/
 
 https://pub.towardsai.net/shapash-making-ml-models-understandable-by-everyone-8f96ad469eb3
 
+GitHub - spirosdim/CNN_interpretability: This project is about detecting pneumonia or no pneumonia from x-ray images and trying to explain the predictions of the Network.
+
+
+https://towardsdatascience.com/knowing-what-and-why-explaining-image-classifier-predictions-680a15043bad
+
+[PDF] Evaluating the performance of the LIME and Grad-CAM explanation methods on a LEGO multi-label image classification task | Semantic Scholar
+
+
+Explainability of Deep Learning Models with Grad-CAM (statworx.com)
+
+Understand Network Predictions Using LIME - MATLAB & Simulink (mathworks.com)
+
+
+Explainable Artificial Intelligence (darpa.mil)
+
+
+What Is XAI (eXplainable AI)? - A Contextual Introduction (digite.com)
+
+
+
 
 
 Explainer dashboard
